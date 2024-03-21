@@ -1,0 +1,4 @@
+This system allows for the real-time detection, recording, and display of essential weather factors, such as temperature, humidity, rainfall, and moisture. The heart of the project is a real-time database that securely stores collected weather data in the cloud, making it easily accessible to the public.![Screenshot 2024-03-21 130800](https://github.com/Priyankamandyam/Weather-Reporting-System-using-IoT/assets/164315213/a1876379-5638-4549-84bc-7cffe120977e)
+![Screenshot 2024-03-21 130800](https://github.com/Priyankamandyam/Weather-Reporting-System-using-IoT/assets/164315213/a9db29dd-c571-4d10-9fd3-498d83ae1228)
+![Screenshot 2024-03-21 130818](https://github.com/Priyankamandyam/Weather-Reporting-System-using-IoT/assets/164315213/7de70854-cd21-41f3-a436-8fd0f4d36a0d)
+![Screenshot 2024-03-21 130837](https://github.com/Priyankamandyam/Weather-Reporting-System-using-IoT/assets/164315213/0a9a3a7a-9db4-4351-b92e-99fbdddecb44)
